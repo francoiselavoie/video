@@ -1,4 +1,4 @@
 # TECHNOLOGIE DES MÉDIASS
 
-[EDM3840](/docs/edm3840)
+[EDM3840](/docs/edm3840/)
 
