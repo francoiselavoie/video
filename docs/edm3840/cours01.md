@@ -57,7 +57,7 @@
 [📁 Démo](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/flpilote_cmontmorency_qc_ca/EoXof15gcg5Coi-w89uA4lwBuFkJoZGi3nojR1EkjHChww?e=XOgz9G%22%20\t%20%22_blank){ .md-button }   <br>
 
 ## Vous et moi...
-* La valise 
+* La valise
 
 ## Explication du projet 1
   [📁 Projet 1](./projets/projet01.md){ .md-button }   <br>
@@ -66,3 +66,4 @@
 * Installer la [suite Adobe](https://www.adobe.com/ca/creativecloud/plans.html?gclid=EAIaIQobChMIs5G7p-iGiAMV6U5HAR1GRxe7EAAYASAAEgKu1_D_BwE&sdid=39JWBGYD&mv=search&mv2=paidsearch&ef_id=EAIaIQobChMIs5G7p-iGiAMV6U5HAR1GRxe7EAAYASAAEgKu1_D_BwE:G:s&s_kwcid=AL!3085!3!558730303399!p!!g!!subscribe%20adobe!15156934695!131017413484&mv=search&gad_source=1) complète sur vos ordinateurs personnels 
 * Mise à jour de [vos drivers](https://cmontmorency365-my.sharepoint.com/:f:/g/personal/flpilote_cmontmorency_qc_ca/EvnG9PpcpMlGsdB1DZ1KFXkBYN-AlleIUajsfuJnYIa6uQ?e=AcOnk6)
 * Vous connecter à [Pinterest](https://www.pinterest.com/)
+
